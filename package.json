@@ -1,15 +1,15 @@
 {
-  "name": "chat-app",
+  "name": "chatapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "A real-time chat application built with React, Firebase, and Socket.io",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["chat", "real-time", "firebase", "react", "socket.io"],
+  "author": "Rachi",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
